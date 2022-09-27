@@ -159,7 +159,7 @@ nav {
 
 /* ASIDE (product detail y carrito)*/
 
-.product-order-detail {
+.shopping-cart-container {
   width: 360px;
   padding: 0px 24px 12px 24px;
   box-sizing: border-box;
@@ -285,7 +285,6 @@ nav {
   position: absolute;
   right: 0;
   background: var(--white);
-  padding: 0 24px;
 }
 .product-detail-close {
   background: var(--white);
@@ -358,7 +357,7 @@ nav {
   .desktop-menu {
     display: none;
   }
-  .product-order-detail {
+  .shopping-cart-container {
     width: 100%;
   }
   .cards-container {
